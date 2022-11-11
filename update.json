@@ -1,0 +1,7 @@
+{
+  "version": "1.0.8",
+  "changelog": "软件功能优化，配置线路2条\n1、优化api接口。\n2、添加使用demo演示。\n3、新增自定义更新服务API接口。\n4、优化更新提示界面。",
+  "ForceUpdate":true,
+  "force": flase,
+   "download": "http://rcgold.cn/txt/TvBox1.0.1-release.apk"
+}
